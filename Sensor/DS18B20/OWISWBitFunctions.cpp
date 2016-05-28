@@ -23,7 +23,7 @@
 
 #ifdef OWI_SOFTWARE_DRIVER
 
-#include "compilers.h"
+#include "Compilers.h"
 
 #include "OWIBitFunctions.h"
 

@@ -19,7 +19,7 @@
 *                         $Revision: 1.7 $
 *                         $Date: Thursday, August 19, 2004 14:27:18 UTC $
 ****************************************************************************/
-#include "compilers.h"
+#include "Compilers.h"
 #include "OWIHighLevelFunctions.h"
 #include "OWIBitFunctions.h"
 #include "OWIPolled.h"
